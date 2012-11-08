@@ -18,7 +18,9 @@ require_once '../vendor/autoload.php';
 
 use Gajdaw\PhpExample\Calc\Calc;
 
-echo Calc::add(1111, 333);
+echo Calc::add(1111, 333) . "<br/>\n";
+
+echo Calc::zero() . "<br/>\n";
 
 ?>
 

@@ -1,5 +1,5 @@
 {
-    "hash": "157d6e6c43ac434f66b3e58c335e5031",
+    "hash": "3618d444c082fc83818748233c4b3252",
     "packages": [
         {
             "name": "gajdaw/php-example-calc",
@@ -8,12 +8,12 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:gajdaw/php-example-calc.git",
-                "reference": "0db2b952a279aeabf2f2fd1dbd370d61468ba0ad"
+                "reference": "2521ca2d5bee1b8433712d1e42384c179077eda2"
             },
             "require": {
                 "php": ">=5.3.3"
             },
-            "time": "1352389073",
+            "time": "1352392119",
             "type": "library",
             "installation-source": "source",
             "autoload": {
