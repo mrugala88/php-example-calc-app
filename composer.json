@@ -1,11 +1,5 @@
 {
     "require": {
-        "gajdaw/php-example-calc": "dev-master"
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "git@github.com:gajdaw/php-example-calc.git"
-        }
-    ]
+        "gajdaw/php-example-calc": "0.0.*"
+    }
 }
