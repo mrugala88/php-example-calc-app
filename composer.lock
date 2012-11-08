@@ -8,12 +8,12 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:gajdaw/php-example-calc.git",
-                "reference": "891b7501caba069b8998e5bbfe7ed18eb89ff638"
+                "reference": "0db2b952a279aeabf2f2fd1dbd370d61468ba0ad"
             },
             "require": {
                 "php": ">=5.3.3"
             },
-            "time": "1352370041",
+            "time": "1352389073",
             "type": "library",
             "installation-source": "source",
             "autoload": {
